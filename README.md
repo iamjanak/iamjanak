@@ -79,9 +79,11 @@ A web-based project designed to manage employee information and HR operations.
 
 ### 📊 GitHub Statistics
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iamjanak&show_icons=true&theme=tokyonight)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=iamjanak&layout=compact&theme=tokyonight)
 
-
+![GitHub Streak](https://streak-stats.demolab.com/?user=iamjanak&theme=tokyonight)
 
 ---
 
