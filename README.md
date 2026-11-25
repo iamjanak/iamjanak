@@ -42,7 +42,7 @@ I'm an IT student with a strong interest in DevOps, automation, and modern IT in
 
 **Database Technologies**
 
-- Oracle Database (Oracle 10g)
+- Oracle Database 
 - PostgreSQL
 - Microsoft SQL Server
 - SQL & PL/SQL
